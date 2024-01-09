@@ -1,0 +1,14 @@
+N:\.Net\RVD\Fundamentals\StudentQ-4\bin\Debug\net7.0\StudentQ4.exe
+N:\.Net\RVD\Fundamentals\StudentQ-4\bin\Debug\net7.0\StudentQ4.deps.json
+N:\.Net\RVD\Fundamentals\StudentQ-4\bin\Debug\net7.0\StudentQ4.runtimeconfig.json
+N:\.Net\RVD\Fundamentals\StudentQ-4\bin\Debug\net7.0\StudentQ4.dll
+N:\.Net\RVD\Fundamentals\StudentQ-4\bin\Debug\net7.0\StudentQ4.pdb
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.GeneratedMSBuildEditorConfig.editorconfig
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.AssemblyInfoInputs.cache
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.AssemblyInfo.cs
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.csproj.CoreCompileInputs.cache
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.dll
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\refint\StudentQ4.dll
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.pdb
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\StudentQ4.genruntimeconfig.cache
+N:\.Net\RVD\Fundamentals\StudentQ-4\obj\Debug\net7.0\ref\StudentQ4.dll

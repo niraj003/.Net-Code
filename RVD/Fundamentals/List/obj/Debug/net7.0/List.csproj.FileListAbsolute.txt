@@ -1,0 +1,14 @@
+N:\.Net\RVD\Fundamentals\List\bin\Debug\net7.0\List.exe
+N:\.Net\RVD\Fundamentals\List\bin\Debug\net7.0\List.deps.json
+N:\.Net\RVD\Fundamentals\List\bin\Debug\net7.0\List.runtimeconfig.json
+N:\.Net\RVD\Fundamentals\List\bin\Debug\net7.0\List.dll
+N:\.Net\RVD\Fundamentals\List\bin\Debug\net7.0\List.pdb
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.dll
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\refint\List.dll
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.pdb
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+N:\.Net\RVD\Fundamentals\List\obj\Debug\net7.0\ref\List.dll
