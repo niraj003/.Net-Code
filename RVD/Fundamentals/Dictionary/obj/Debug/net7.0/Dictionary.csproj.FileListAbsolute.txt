@@ -1,0 +1,14 @@
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+N:\.Net\RVD\Fundamentals\Dictionary\bin\Debug\net7.0\Dictionary.exe
+N:\.Net\RVD\Fundamentals\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+N:\.Net\RVD\Fundamentals\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+N:\.Net\RVD\Fundamentals\Dictionary\bin\Debug\net7.0\Dictionary.dll
+N:\.Net\RVD\Fundamentals\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.dll
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+N:\.Net\RVD\Fundamentals\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll

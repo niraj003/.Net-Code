@@ -1,0 +1,14 @@
+N:\.Net\RVD\Fundamentals\LinkList\bin\Debug\net7.0\LinkList.exe
+N:\.Net\RVD\Fundamentals\LinkList\bin\Debug\net7.0\LinkList.deps.json
+N:\.Net\RVD\Fundamentals\LinkList\bin\Debug\net7.0\LinkList.runtimeconfig.json
+N:\.Net\RVD\Fundamentals\LinkList\bin\Debug\net7.0\LinkList.dll
+N:\.Net\RVD\Fundamentals\LinkList\bin\Debug\net7.0\LinkList.pdb
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.GeneratedMSBuildEditorConfig.editorconfig
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.AssemblyInfoInputs.cache
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.AssemblyInfo.cs
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.csproj.CoreCompileInputs.cache
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.dll
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\refint\LinkList.dll
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.pdb
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\LinkList.genruntimeconfig.cache
+N:\.Net\RVD\Fundamentals\LinkList\obj\Debug\net7.0\ref\LinkList.dll
