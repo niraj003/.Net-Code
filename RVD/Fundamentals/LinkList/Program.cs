@@ -1,16 +1,18 @@
-﻿using System;
+Q-6: Create your own linked list to represent a polynomial. Write a program to perform addition of two polynomials
+
+using System;
 
 class Node
 {
-    public int coefficient;
-    public int power;
-    public Node next;
+    public int Data;
+    public int Power;
+    public Node Next;
 
-    public Node(int coeff, int pow)
+    public Node(int data, int pow)
     {
-        coefficient = coeff;
-        power = pow;
-        next = null;
+        Data = data;
+        Power = pow;
+        Next = null;
     }
 }
 
@@ -23,9 +25,9 @@ class Polynomial
         head = null;
     }
 
-    public void InsertTerm(int coeff, int pow)
+    public void InsertTerm(int data, int pow)
     {
-        Node newNode = new Node(coeff, pow);
+        Node newNode = new Node(data, pow);
 
         if (head == null)
         {
@@ -34,11 +36,11 @@ class Polynomial
         else
         {
             Node current = head;
-            while (current.next != null)
+            while (current.Next != null)
             {
-                current = current.next;
+                current = current.Next;
             }
-            current.next = newNode;
+            current.Next = newNode;
         }
     }
 
@@ -47,18 +49,18 @@ class Polynomial
         Node current = head;
         while (current != null)
         {
-            Console.Write($"{current.coefficient}x^{current.power}");
-            if (current.next != null)
+            Console.Write($"{current.Data}x^{current.Power}");
+            if (current.Next != null)
             {
                 Console.Write(" + ");
             }
-            current = current.next;
+            current = current.Next;
         }
         Console.WriteLine();
     }
 }
 
-class Program
+class HelloWorld
 {
     static Polynomial AddPolynomials(Polynomial poly1, Polynomial poly2)
     {
@@ -68,35 +70,35 @@ class Program
 
         while (current1 != null && current2 != null)
         {
-            if (current1.power > current2.power)
+            if (current1.Power > current2.Power)
             {
-                result.InsertTerm(current1.coefficient, current1.power);
-                current1 = current1.next;
+                result.InsertTerm(current1.Data, current1.Power);
+                current1 = current1.Next;
             }
-            else if (current2.power > current1.power)
+            else if (current2.Power > current1.Power)
             {
-                result.InsertTerm(current2.coefficient, current2.power);
-                current2 = current2.next;
+                result.InsertTerm(current2.Data, current2.Power);
+                current2 = current2.Next;
             }
             else
             {
-                int newCoefficient = current1.coefficient + current2.coefficient;
-                result.InsertTerm(newCoefficient, current1.power);
-                current1 = current1.next;
-                current2 = current2.next;
+                int newData = current1.Data + current2.Data;
+                result.InsertTerm(newData, current1.Power);
+                current1 = current1.Next;
+                current2 = current2.Next;
             }
         }
 
         while (current1 != null)
         {
-            result.InsertTerm(current1.coefficient, current1.power);
-            current1 = current1.next;
+            result.InsertTerm(current1.Data, current1.Power);
+            current1 = current1.Next;
         }
 
         while (current2 != null)
         {
-            result.InsertTerm(current2.coefficient, current2.power);
-            current2 = current2.next;
+            result.InsertTerm(current2.Data, current2.Power);
+            current2 = current2.Next;
         }
 
         return result;
