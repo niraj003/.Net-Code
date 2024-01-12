@@ -1,7 +1,5 @@
-internal class SalaryDetails
-{
-}using System;
-
+using System;
+namespace employeesysteam{
 class SalaryDetails {
   public double Salary;
   public double BasicPay;
@@ -17,4 +15,5 @@ class SalaryDetails {
     TA = 1600;
     Salary = BasicPay + HRA + TA;
   }
+}
 }
