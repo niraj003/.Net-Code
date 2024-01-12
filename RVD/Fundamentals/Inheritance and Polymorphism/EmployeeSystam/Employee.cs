@@ -1,5 +1,5 @@
 using System;
-
+namespace employeesysteam{
 class Employee {
   public int EmployeeId;
   public string Name;
@@ -32,4 +32,5 @@ class Employee {
     Console.WriteLine("Mobile Number: " + MobileNumber);
     Console.WriteLine("Salary: " + SalaryDetailsObject.Salary);
   }
+}
 }
