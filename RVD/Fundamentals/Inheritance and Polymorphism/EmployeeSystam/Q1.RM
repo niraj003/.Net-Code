@@ -1,0 +1,35 @@
+Class SalaryDetails:
+Salary, BasicPay, HRA, TA
+Constructor( ) - accepts only BasicPay
+Compute( ) - Computes Salary as BasicPay + HRA + TA
+(HRA is 30% of Basic and TA is 1600 Rs)
+Class Employee:
+EmployeeId, Name, Experience, Company, Age, Mobile Number, Object
+of SalaryDetails
+Constructor( )
+CalculateSalary( )
+Display( )
+Manager inherits from Employee:
+Department, SpecialBonus
+CalculateSalary( ) - Needs to add special bonus in the earlier calculated
+salary
+Display( )
+Associate inherits from Employee:
+Supervisor (which is EmployeeId of existing Employee)
+Grade - Will be any value out of 1, 2, 3
+ContractEndDate
+PerformanceGrade - will be any value out of A, B, C
+RenewContract( ) - the contract can be renewed only if there are less
+than or equal to 10 days remaining for the completion of contract. The
+contract renewal will be as per the performance grade as follows:
+A - Renew by 300 days
+B - Renew by 150 days
+C - Renew by 75 days
+CalculateSalary( ) - Basic is 10000 Rs. the total salary is calculated as per
+the grade of the employee as follows:
+Grade 1 - Basic + 20 % Basic + TA (Rs 1600)
+Grade 2 - Basic + 15 % Basic + TA (Rs 1000)
+Grade 3 - Basic + 10 % Basic + TA (Rs 500)
+Display( )
+Implement the above hierarchy and write main function for testing the
+same. 
