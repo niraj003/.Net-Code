@@ -1,5 +1,5 @@
 using System;
-
+namespace employeesysteam{
 class Associate : Employee {
   public int Supervisor;
   public int Grade;
@@ -54,4 +54,5 @@ class Associate : Employee {
     Console.WriteLine("Contract End Date: " + ContractEndDate);
     Console.WriteLine("Performance Grade: " + PerformanceGrade);
   }
+}
 }
