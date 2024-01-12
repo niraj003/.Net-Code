@@ -1,4 +1,5 @@
 using System;
+namespace employeesysteam{
 class Program {
   static void Main() {
     SalaryDetails managerSalary = new SalaryDetails();
@@ -12,4 +13,5 @@ class Program {
     associate.CalculateSalary();
     associate.Display();
   }
+}
 }
